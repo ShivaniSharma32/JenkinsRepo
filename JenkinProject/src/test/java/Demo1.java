@@ -7,6 +7,7 @@ public class Demo1 {
 	{
 		System.out.println("Step1");
 		System.out.println("Step2");
+		System.out.println("Hello mam"); 
 		
 }
 }
